@@ -13,6 +13,7 @@ public class StudentArray
 {
     public static void main(String[] args)
     {
+       //this is just for practice
         StudentDemo [] studentList = new StudentDemo[5];
         StudentDemo student1 = new StudentDemo("1", "Jim Halpern");
         studentList[0] = student1;
